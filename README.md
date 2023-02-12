@@ -13,3 +13,7 @@ The case was CNC cut from 1/4" plywood and should press fit together, pssobily w
 The switch mounting plates are designed to snap fit a standard MX keyboard switch, and then bolt to the faceplate. 
 
 The latest software revision is available on this repo: Teensy_Synth_Rev_9.ino. The pinouts can be found in this file. 
+
+The slideshow is a copy of the powerpoint presentation used in CSCI 162. 
+
+The images folder contains pictures of the final synthesizer, and of the CAD files.
